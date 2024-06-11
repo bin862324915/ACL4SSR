@@ -1,5 +1,12 @@
 # 直连列表
 
+# 自定义
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,zzzwb.com
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,9521.cloudns.ch
+
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
