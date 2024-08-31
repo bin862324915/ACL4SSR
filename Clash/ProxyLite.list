@@ -1,5 +1,8 @@
 # 代理列表
 
+# 自定义代理域名
+DOMAIN-SUFFIX,wallhaven.cc
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
