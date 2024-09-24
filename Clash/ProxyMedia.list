@@ -4,6 +4,7 @@
 
 # 自定义代理域名
 DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,one.one
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
