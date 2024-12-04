@@ -2,6 +2,7 @@
 
 # 自定义代理域名
 DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,lumiproxy.com
 
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
