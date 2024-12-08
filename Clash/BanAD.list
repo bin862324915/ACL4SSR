@@ -1,5 +1,22 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
+
+# TalkaTone Ad Test
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,jampp.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,firebasedynamiclinks.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
+
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
