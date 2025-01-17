@@ -5,7 +5,6 @@
 # 自定义代理域名
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,lumiproxy.com
-DOMAIN-SUFFIX,serv00.com
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
