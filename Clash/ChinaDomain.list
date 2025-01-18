@@ -10,7 +10,8 @@ DOMAIN-SUFFIX,yiso.fun
 DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,ghp.ci
 DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,www.serv00.com
+DOMAIN,www.serv00.com
+DOMAIN,forum.serv00.com
 
 
 # MyList
