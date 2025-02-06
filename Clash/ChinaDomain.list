@@ -14,7 +14,8 @@ DOMAIN,www.serv00.com
 DOMAIN,forum.serv00.com
 DOMAIN,docs.serv00.com
 DOMAIN,panel.serv00.com
-
+DOMAIN,imgse.com
+DOMAIN-SUFFIX,imgse.com
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
