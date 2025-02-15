@@ -16,6 +16,7 @@ DOMAIN,docs.serv00.com
 DOMAIN,panel.serv00.com
 DOMAIN,imgse.com
 DOMAIN-SUFFIX,imgse.com
+DOMAIN-SUFFIX,thumbsnap.com
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
