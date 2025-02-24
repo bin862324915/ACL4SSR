@@ -18,6 +18,9 @@ DOMAIN,imgse.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,thumbsnap.com
 DOMAIN-SUFFIX,he.net
+PROCESS-NAME,crossfire.exe
+PROCESS-NAME,wegame.exe
+PROCESS-NAME,WebViewProcess_x64.exe
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
