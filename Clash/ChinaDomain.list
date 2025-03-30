@@ -22,6 +22,7 @@ DOMAIN,forum.serv00.com
 DOMAIN,docs.serv00.com
 DOMAIN,panel.serv00.com
 DOMAIN,imgse.com
+DOMAIN,desec.io
 
 # 自定义应用
 PROCESS-NAME,crossfire.exe
