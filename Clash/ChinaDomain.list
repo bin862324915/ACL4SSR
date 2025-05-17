@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,webhostmost.com
 DOMAIN-SUFFIX,thumbsnap.com
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,netflixgc.com
+DOMAIN-SUFFIX,letsencrypt.org
 
 # 自定义网站
 DOMAIN,www.serv00.com
