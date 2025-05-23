@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,letsencrypt.org
 
 # 自定义网站
 DOMAIN,www.serv00.com
+DOMAIN,mail.serv00.com
 DOMAIN,forum.serv00.com
 DOMAIN,docs.serv00.com
 DOMAIN,pane0.serv00.com
