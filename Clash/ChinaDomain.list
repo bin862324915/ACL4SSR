@@ -17,14 +17,14 @@ DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,netflixgc.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN,zzzwb.hidns.vip
-DOMAIN,jd.com
-DOMAIN,wegamex.com.hk
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,wegamex.com.hk
 
 # YY
-DOMAIN,yystatic.com
-DOMAIN,bigda.com
-DOMAIN,yy.com
-DOMAIN,baidu.com
+DOMAIN-SUFFIX,yystatic.com
+DOMAIN-SUFFIX,bigda.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,baidu.com
 
 # 自定义网站
 DOMAIN,www.serv00.com
