@@ -16,17 +16,19 @@ DOMAIN-SUFFIX,thumbsnap.com
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,netflixgc.com
 DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN,zzzwb.hidns.vip
+DOMAIN-SUFFIX,zzzwb.hidns.vip
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,wegamex.com.hk
 DOMAIN-SUFFIX,katabump.com
 DOMAIN-SUFFIX,xx.kg
+
 
 # YY
 DOMAIN-SUFFIX,yystatic.com
 DOMAIN-SUFFIX,bigda.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bridgeoos.com
 
 # 自定义网站
 DOMAIN,www.serv00.com
@@ -35,8 +37,9 @@ DOMAIN,forum.serv00.com
 DOMAIN,docs.serv00.com
 DOMAIN,pane0.serv00.com
 DOMAIN,panel.serv00.com
-DOMAIN,imgse.com
-DOMAIN,desec.io
+DOMAIN-SUFFIX,imgse.com
+DOMAIN-SUFFIX,desec.io
+DOMAIN,cdn.blog.zzzwb.com
 
 # 自定义应用
 PROCESS-NAME,crossfire.exe
