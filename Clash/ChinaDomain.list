@@ -39,6 +39,7 @@ DOMAIN,panel.serv00.com
 DOMAIN-SUFFIX,imgse.com
 DOMAIN-SUFFIX,desec.io
 DOMAIN,cdn.blog.zzzwb.com
+DOMAIN,busuanzi.ibruce.info
 
 # 自定义应用
 PROCESS-NAME,crossfire.exe
